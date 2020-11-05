@@ -13,4 +13,4 @@ function wrapAdjective(flair="*") {
   }
 };
 
-const Calculator = {'add'};
+const Calculator = {'add': 1 = 3};
